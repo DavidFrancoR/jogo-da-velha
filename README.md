@@ -1,2 +1,2 @@
 # jogo-da-velha
-Jogo da velha em Java
+Jogo da velha em JavaScript
